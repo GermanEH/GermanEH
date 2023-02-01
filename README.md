@@ -1,17 +1,18 @@
-### Bienvenido! 👋
+### ¡Bienvenido! 👋
 
+Un poco de mí:
 ¿Busca un desarrollador de React/React Native con experiencia en entornos de trabajo de alta exigencia? ¡No busque más! Llegó al lugar indicado 🤩 
 Conmigo en su equipo, va a contar con un profesional analítico, comprometido, y con una fuerte orientación al cliente 💻💼
 
 Stack:
 
-✅ React JS
-✅ React Native
-✅ Express JS
-✅ Node JS
-✅ PostgreSQL
-✅ Mongoose
-✅ Mongo DB
+✅ React JS /br
+✅ React Native /br
+✅ Express JS /br
+✅ Node JS /br
+✅ PostgreSQL /br
+✅ Mongoose /br
+✅ Mongo DB /br
 
 Mi práctica de la abogacía me aportó varias de las softs skills que el mundo tech tanto demanda, tales como la gestión de la relación con el cliente, las negociaciones difíciles, y la toma de decisiones en contextos de crisis.
 
