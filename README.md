@@ -6,13 +6,13 @@ Conmigo en su equipo, va a contar con un profesional analítico, comprometido, y
 
 Stack:
 
-✅ React JS /br
-✅ React Native /br
-✅ Express JS /br
-✅ Node JS /br
-✅ PostgreSQL /br
-✅ Mongoose /br
-✅ Mongo DB /br
+✅ React JS <br>
+✅ React Native <br>
+✅ Express JS <br>
+✅ Node JS <br>
+✅ PostgreSQL <br>
+✅ Mongoose <br>
+✅ Mongo DB <br>
 
 Mi práctica de la abogacía me aportó varias de las softs skills que el mundo tech tanto demanda, tales como la gestión de la relación con el cliente, las negociaciones difíciles, y la toma de decisiones en contextos de crisis.
 
