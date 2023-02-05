@@ -2,7 +2,7 @@
 
 **STOP THERE!**
 
-**Looking for a React/React Native developer with experience in high demand work environment? Look no further! You reached the right place 🤩 **
+**Looking for a React/React Native developer with experience in high demand work environment? Look no further! You reached the right place** 🤩
 
 With me in your team, you will have an analitic, commited, and strong client-oriented professional 💻💼
 
