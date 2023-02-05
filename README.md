@@ -1,9 +1,9 @@
-### ¡Bienvenido! 👋
+### Welcome! 👋
 
-**ALTO AHÍ**
+**STOP THERE!**
 
-**¿Busca un desarrollador de React/React Native con experiencia en entornos de trabajo de alta exigencia? ¡No busque más! Llegó al lugar indicado** 🤩 
-Conmigo en su equipo, va a contar con un profesional analítico, comprometido, y con una fuerte orientación al cliente 💻💼
+**Looking for a React/React Native developer with experience in high demand work environment? Look no further! You reached the right place 🤩 **
+With me in your team, you will have an analitic, commited, and strong client-oriented professional 💻💼
 
 Stack:
 
@@ -15,13 +15,22 @@ Stack:
 ✅ Mongoose <br>
 ✅ Mongo DB <br>
 
-Mi práctica de la abogacía me aportó varias de las softs skills que el mundo tech tanto demanda, tales como la gestión de la relación con el cliente, las negociaciones difíciles, y la toma de decisiones en contextos de crisis.
+My motivations:
 
-Durante mis estudios de Fullstack developer en Henry, lideré los dos proyectos de desarrollo por elección libre de los respectivos equipos, ambos con grandes resultados.
+When I sat down to write my first lines of code I realized that software is the ideal oportunity to connect my love por creative and logic problem-solving, with my ambition of having a positive and meaningful impact on people's lives.
 
-Si lo que busca es un desarrollador con experiencia en entornos de trabajo de alta exigencia, y con experiencia en desarrollo de proyectos IT, soy ideal para integrar su equipo. 
+My background:
 
-¡Conectemos! 🤜🏼 🤛🏼 🚀
+Mi practice as a lawyer gave me several softs skills, high demanded inside the tech industry, such as efficient communication, negotiation, time-management, and decision-making.
+On the other hand, my time at Henry allowed me to grow in tenacity, leadership, agile learning, and dedication.
+
+My main achievments:
+
+During my studies at Henry, I lead the two developments projects by free choice of the respective teams, both with great outcomes.
+
+If you are looking for a developer with experience in high demand work enviroments, and with experience in development of IT projects, I am ideal for joining your team.
+
+Let's get in touch! 🤜🏼 🤛🏼 🚀
 
 Mail: germanezequielhorianski@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/ghorianski/
