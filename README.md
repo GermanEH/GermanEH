@@ -9,7 +9,7 @@ With me in your team, you will have an analitic, commited, and strong client-ori
 Stack:
 
 ✅ React JS <br>
-✅ React Native <br>
+✅ Next.js <br>
 ✅ Express JS <br>
 ✅ Node JS <br>
 ✅ PostgreSQL <br>
